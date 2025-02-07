@@ -79,6 +79,8 @@ Setup Instructions
     Clone the Repository
 
 git clone https://github.com/duresaguye/AI-Fraud-Detection
+
+
 cd AI-Fraud-Detection
 
 Install Dependencies
