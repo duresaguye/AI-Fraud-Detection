@@ -74,9 +74,22 @@ Contains bank transaction data specifically curated for fraud detection analysis
 
 
 ## How to Run
-1. Clone the repository.
-2. Install the required dependencies.
-3. Run the Jupyter notebook `Data_Preprocessing_with_Scikit_Learn.ipynb` located in the `notebooks` folder to preprocess the data and generate visualizations.
+Setup Instructions
 
-## Conclusion
-This project demonstrates the steps involved in preprocessing and analyzing e-commerce and bank transaction data for fraud detection. The visualizations provide insights into the data, and the preprocessing steps prepare the data for machine learning models.
+    Clone the Repository
+
+git clone https://github.com/duresaguye/AI-Fraud-Detection
+
+
+cd AI-Fraud-Detection
+
+Install Dependencies
+Ensure all required dependencies are installed:
+
+pip install -r requirements.txt
+
+Run Data Preprocessing
+Execute the Jupyter notebook to preprocess the data and generate visualizations:
+
+    Open the notebooks folder.
+    Run Data_Preprocessing_with_Scikit_Learn.ipynb in Jupyter Notebook.
