@@ -3,3 +3,5 @@ data
 .history
 model
 models
+
+models/fraud_random_forest.pkl
