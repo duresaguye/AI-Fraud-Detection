@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Define the model path
-MODEL_PATH = 'model/fraud_random_forest_model.pkl'
+MODEL_PATH = "model/creditcard_fraud_rf_model.pkl"  
 
 # Load the model
 try:
